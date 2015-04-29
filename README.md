@@ -1,1 +1,5 @@
 # sample
+
+##メンバー
+
+*testmember
